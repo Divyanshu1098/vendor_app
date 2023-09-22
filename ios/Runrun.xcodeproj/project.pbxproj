@@ -36,7 +36,7 @@
 		8424755F2A5FE34E00E5BF6E /* Sabroson(Production).xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = 8424755E2A5FE34E00E5BF6E /* Sabroson(Production).xcconfig */; };
 		842475612A5FE35E00E5BF6E /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 842475602A5FE35E00E5BF6E /* Images.xcassets */; };
 		842475632A5FE3BD00E5BF6E /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 842475622A5FE3BC00E5BF6E /* GoogleService-Info.plist */; };
-		E43965C7E8D5945EA86CAB04 /* libPods-available_pods-Sabroson.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7B1F2731C867A2BB9F04C45E /* libPods-available_pods-Sabroson.a */; };
+		D7D783C11F390F26029A8EDD /* libPods-available_pods-Sabroson.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 4D45BE8109259181C60C66B7 /* libPods-available_pods-Sabroson.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -47,9 +47,9 @@
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = Runrun/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = Runrun/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Runrun/main.m; sourceTree = "<group>"; };
-		41C1AC58151AE011C759237C /* Pods-available_pods-Sabroson.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-available_pods-Sabroson.debug.xcconfig"; path = "Target Support Files/Pods-available_pods-Sabroson/Pods-available_pods-Sabroson.debug.xcconfig"; sourceTree = "<group>"; };
+		4D45BE8109259181C60C66B7 /* libPods-available_pods-Sabroson.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-available_pods-Sabroson.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		76804BEC269C14AB007926EE /* Runrun.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = Runrun.entitlements; path = Runrun/Runrun.entitlements; sourceTree = "<group>"; };
-		7B1F2731C867A2BB9F04C45E /* libPods-available_pods-Sabroson.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-available_pods-Sabroson.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7A203B2A6FF279FFA4CA7589 /* Pods-available_pods-Sabroson.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-available_pods-Sabroson.debug.xcconfig"; path = "Target Support Files/Pods-available_pods-Sabroson/Pods-available_pods-Sabroson.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = Runrun/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8416011F2A00B33300857051 /* LaundryLink.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = LaundryLink.entitlements; sourceTree = "<group>"; };
 		841DBA652A0DB13A005B7FC8 /* Montra.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Montra.entitlements; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		84F4678E26A7F27400D378D5 /* Runrun-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Runrun-Bridging-Header.h"; sourceTree = "<group>"; };
 		84F4678F26A7F27400D378D5 /* RoyoOrder-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "RoyoOrder-Bridging-Header.h"; sourceTree = "<group>"; };
 		84F4679626A7F27500D378D5 /* Royo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Royo.swift; sourceTree = "<group>"; };
-		A006A7F87A8AA46506C50338 /* Pods-available_pods-Sabroson.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-available_pods-Sabroson.release.xcconfig"; path = "Target Support Files/Pods-available_pods-Sabroson/Pods-available_pods-Sabroson.release.xcconfig"; sourceTree = "<group>"; };
+		86FA01D9AE2DB7942C304980 /* Pods-available_pods-Sabroson.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-available_pods-Sabroson.release.xcconfig"; path = "Target Support Files/Pods-available_pods-Sabroson/Pods-available_pods-Sabroson.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F834144C293DF16900F7ED25 /* PIK.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = PIK.entitlements; sourceTree = "<group>"; };
@@ -114,7 +114,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E43965C7E8D5945EA86CAB04 /* libPods-available_pods-Sabroson.a in Frameworks */,
+				D7D783C11F390F26029A8EDD /* libPods-available_pods-Sabroson.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -158,8 +158,8 @@
 		293CCC036299F75712B8E1E3 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				41C1AC58151AE011C759237C /* Pods-available_pods-Sabroson.debug.xcconfig */,
-				A006A7F87A8AA46506C50338 /* Pods-available_pods-Sabroson.release.xcconfig */,
+				7A203B2A6FF279FFA4CA7589 /* Pods-available_pods-Sabroson.debug.xcconfig */,
+				86FA01D9AE2DB7942C304980 /* Pods-available_pods-Sabroson.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -174,7 +174,7 @@
 				84EA41CC26393E950078E919 /* libRNGoogleSignin.a */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				7B1F2731C867A2BB9F04C45E /* libPods-available_pods-Sabroson.a */,
+				4D45BE8109259181C60C66B7 /* libPods-available_pods-Sabroson.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -308,15 +308,15 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 842475562A5FE25A00E5BF6E /* Build configuration list for PBXNativeTarget "Sabroson" */;
 			buildPhases = (
-				4662FEF6764D83A3F349FF72 /* [CP] Check Pods Manifest.lock */,
+				A9B71167DAC2ED0E30DBB258 /* [CP] Check Pods Manifest.lock */,
 				842475302A5FE25A00E5BF6E /* Sources */,
 				842475342A5FE25A00E5BF6E /* Frameworks */,
 				842475362A5FE25A00E5BF6E /* Resources */,
 				842475512A5FE25A00E5BF6E /* Bundle React Native code and images */,
 				842475522A5FE25A00E5BF6E /* Start Packager */,
 				842475532A5FE25A00E5BF6E /* ShellScript */,
-				5851B330E1A153F1430250CF /* [CP] Embed Pods Frameworks */,
-				F20ED1C421C3A2A9930D32C8 /* [CP] Copy Pods Resources */,
+				80DA63FFF3BED52ED136F70D /* [CP] Embed Pods Frameworks */,
+				C20559F49D1FF316A513EE55 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -336,8 +336,8 @@
 				LastUpgradeCheck = 1130;
 				TargetAttributes = {
 					8424752E2A5FE25A00E5BF6E = {
-						DevelopmentTeam = 6FXUMT5X23;
-						ProvisioningStyle = Automatic;
+						DevelopmentTeam = 7A97F58W6X;
+						ProvisioningStyle = Manual;
 					};
 				};
 			};
@@ -396,29 +396,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		4662FEF6764D83A3F349FF72 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-available_pods-Sabroson-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		5851B330E1A153F1430250CF /* [CP] Embed Pods Frameworks */ = {
+		80DA63FFF3BED52ED136F70D /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -499,7 +477,29 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-available_pods-Sabroson/Pods-available_pods-Sabroson-frameworks.sh\"\n";
 		};
-		F20ED1C421C3A2A9930D32C8 /* [CP] Copy Pods Resources */ = {
+		A9B71167DAC2ED0E30DBB258 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-available_pods-Sabroson-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C20559F49D1FF316A513EE55 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -702,9 +702,11 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = Sabroson.entitlements;
 				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = "$(PROJECT_BUILD_NUMBER)";
-				DEVELOPMENT_TEAM = 6FXUMT5X23;
+				DEVELOPMENT_TEAM = "";
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 7A97F58W6X;
 				ENABLE_BITCODE = NO;
 				EXCLUDED_ARCHS = "";
 				"EXCLUDED_ARCHS[sdk=*]" = arm64;
@@ -723,6 +725,7 @@
 				PROJECT_ENTITLEMENT = "";
 				PROJECT_PLIST = "$(PROJECT_PLIST)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = "Sabroson Vendor";
 				SWIFT_OBJC_BRIDGING_HEADER = "RoyoOrder-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;

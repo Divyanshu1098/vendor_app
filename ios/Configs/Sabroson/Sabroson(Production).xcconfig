@@ -2,11 +2,7 @@
 
 PROJECT_APPLE_ID = 6467185398
 PROJECT_BUNDLE_ID = com.sabroson.vendorApp
-<<<<<<< HEAD
 PROJECT_APP_VERSION = 3.0
-=======
-PROJECT_APP_VERSION = 2.0
->>>>>>> 77a590f49919ad1b5f1bd9b6a65db6af24c4e954
 PROJECT_BUILD_NUMBER = 1
 PROJECT_APP_NAME = SABROSÓN Negocios
 PROJECT_GOOGLE_CLIENT_ID = 237356412741-3bahvm1ehjtt9e7o4jf2sordmkiaqalo.apps.googleusercontent.com
